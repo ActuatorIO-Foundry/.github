@@ -1,6 +1,6 @@
-# ActuatorIO Foundry
-
-**De la décision à l’action.**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ActuatorIO-Foundry/.github/main/assets/actuatorio-banner.png" alt="ActuatorIO Foundry — De la décision à l’action." width="1200">
+</p>
 
 Un atelier de création de logiciels, d’agents IA et d’automatisations : des idées qui deviennent des outils utiles, conçus pour être compris et maîtrisés.
 
